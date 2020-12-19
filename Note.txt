@@ -1,0 +1,4 @@
+
+https://docs.microsoft.com/en-us/sql/relational-databases/spatial/create-construct-and-query-geography-instances?redirectedfrom=MSDN&view=sql-server-ver15
+
+https://www.codeproject.com/Articles/824027/Add-GIS-and-Mapping-Functionality-to-your-NET-Appl

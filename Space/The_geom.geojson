@@ -1,0 +1,767 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Công Ty Cổ phần Vận Tải Dịch Vụ Du Lịch Phương Trang\n",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7803124994852,
+          10.04431249932452,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Đại Lý Bán Vé Tàu Hỏa Cần Thơ\n",
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7879374996373,
+          10.03268749964513,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến Xe Cần Thơ Mới\n",
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7718125004007,
+          10.00418749985725,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nhà xe Thành Bưởi\n",
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7710625000102,
+          10.00443750007042,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Xe khách An Nhiên Cần Thơ - Đồng Tháp\n",
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7711874999224,
+          10.00543749947454,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Xe Khách Hùng Cường (Cần Thơ)\n",
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7710625005901,
+          10.00556249986321,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tô Châu cần thơ 2\n",
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.775437500023,
+          10.05331249984896,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến Xe Trung Tâm Cần Thơ\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7724374995123,
+          10.00556250016776,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến xe Khách Trung Tâm Thành Phố Cần Thơ\n",
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7623125060513,
+          10.02381248904724,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Công Ty Xe Khách Chất Lượng Cao Mai Linh Express\n",
+     
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7453125379762,
+          10.03831250053152,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dịch Vụ Taxi Green\n",
+    
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7612941568475,
+          10.0179403781751,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến xe Buýt\n",
+  
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7343124999376,
+          10.06281250004306,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến xe Buýt\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7268125006379,
+          10.06306250031601,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến xe Buýt\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7254376994428,
+          10.05793824481892,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến xe Buýt\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7244375001817,
+          10.05181249983677,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến Xe Buýt KDC 515\n",
+   
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7608125002135,
+          10.01268750004321,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến Xe Điện\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7906874998156,
+          10.04881249977775,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành xe sài gòn\n",
+     
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7420705439477,
+          9.999820606702578,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kho Hàng Trọng Tấn - Cần Thơ\n",
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7810625002204,
+          10.01143750010722,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành xe tiến phát Cần Thơ\n",
+    
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7776874999383,
+          10.01493749972686,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành vận chuyển hàng từ Cần Thơ lên Sài Gòn\n",
+   
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7595929292004,
+          10.0193051555146,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành Xe Lê Châu\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7600624998436,
+          10.02481249964113,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tô Châu Cần Thơ - Vận Chuyển Hàng Nhanh\n",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7596930834329,
+          10.02493563924223,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cửa Hàng Chành Xe Nhi Lẻm\n",
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7675624032001,
+          10.02606248626513,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành Xe Kiệt\n",
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7870614055908,
+          10.03106221933539,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành Xe Châu Đốc An Giang\n",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7646879729909,
+          10.04481190794986,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Công ty Tô Châu\n",
+    
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7793125000335,
+          10.04481250030266,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành xe tải Hà Hùng (Cần Thơ,  Phụng Hiệp)\n",
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7815625004893,
+          10.04656250020507,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến tàu đi Chợ Nổi\n",
+     
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7486875001123,
+          10.00756249965072,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến phà Xóm Chài\n",
+   
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.788276198279,
+          10.03066631531088,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến tàu cao tốc Côn Đảo Express - Ninh Kiều Cần Thơ\n",
+     
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7884347585512,
+          10.03154331332259,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến tàu cao tốc Côn Đảo Express - Bến Ninh Kiều 1 - Cần Thơ\n",
+   
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7885589416607,
+          10.03204826718555,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vé tàu Côn Đảo Express Cần Thơ-Côn Đảo\n",
+  
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7881033684546,
+          10.03206249999708,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến Tàu đi Chợ Nổi\n",
+   
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7880624999225,
+          10.03206250045129,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến Tàu Du Lịch Số 1 Bến Ninh Kiều \n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7884265921012,
+          10.03230522784498,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tàu Tham Quan Chợ Nổi Cái Răng ( Bến Ninh Kiều )\n",
+  
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7883124996067,
+          10.03268750008064,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến Tàu Chợ Nổi Cần Thơ\n",
+    
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.788562464568,
+          10.03343739377703,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến Tàu Khách Du Lịch Cần Thơ\n",
+     
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7886874999937,
+          10.0336874994893,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến tàu du lịch Hawon\n",
+    
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7925594075929,
+          10.04655222656744,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến Tàu Du Lịch Cồn Sơn\n",
+   
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7645247345302,
+          10.06829181927392,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hùng Cường Cần Thơ (Phòng hàng)\n",
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7619374999765,
+          10.02406250027531,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Công ty Cổ Phần Vận Tải Sài Gòn\n",
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7776874999001,
+          10.05593749955744,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành xe Tiến Phát Cần Thơ\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7776875003445,
+          10.01494007308714,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Công Ty Cổ Phần Vận Tải Sài Gòn - Đại lý Ô Môn\n",
+     
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6219375640145,
+          10.11193745988991,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Phương Trang Cần Thơ\n",
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8043125002658,
+          9.99918749967675,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Công Ty Cổ phần Bến Xe Tàu Phà Cần Thơ\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7609375001177,
+          10.02418749996594,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành Xe Thành Hà Tiên, Tuyến Cần Thơ - Phú Quốc \n",
+     
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7794391101699,
+          10.01381081300785,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành xe Thuận Phát\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7671882457767,
+          10.04168735107253,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chành Xe Kiệt\n",
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7644374998101,
+          10.0444374997329,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Doanh nghiệp tư nhân Dịch vụ Vận Chuyển Hàng Hóa Thiên Minh\n",
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7791875004446,
+          10.04418750009945,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bến đò Cô Bắc - bến tàu du lịch cồn Sơn\n",
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7625624998381,
+          10.06981249954259,
+          0
+        ]
+      }
+    }
+  ]
+}
