@@ -96,7 +96,7 @@ namespace Project_HTTTDL.Models
 
             modelBuilder.Entity<Space>(entity =>
             {
-                entity.HasNoKey();
+                entity.HasKey(e => e.CartodbId);
 
                 entity.ToTable("Space");
 
@@ -124,14 +124,25 @@ namespace Project_HTTTDL.Models
                     .IsUnicode(false)
                     .HasColumnName("picture");
 
+                entity.Property(e => e.ProvinceId).HasColumnName("province_id");
+
+                entity.Property(e => e.Street)
+                    .HasMaxLength(100)
+                    .HasColumnName("street");
+
                 entity.Property(e => e.TheGeom)
                     .HasMaxLength(255)
                     .HasColumnName("the_geom");
 
                 entity.Property(e => e.TypeId).HasColumnName("type_id");
 
+                entity.HasOne(d => d.Province)
+                    .WithMany(p => p.Spaces)
+                    .HasForeignKey(d => d.ProvinceId)
+                    .HasConstraintName("FK__Space__province___70DDC3D8");
+
                 entity.HasOne(d => d.Type)
-                    .WithMany()
+                    .WithMany(p => p.Spaces)
                     .HasForeignKey(d => d.TypeId)
                     .HasConstraintName("FK__DiaDiem__type_id__31EC6D26");
             });

@@ -11,7 +11,7 @@ go
 insert into type_of_space values(N'Bến xe'), (N'Bến tàu'), (N'Chành xe'), (N'Địa điểm bán vé'), (N'Trạm xe buýt'), (N'Dịch vụ vận chuyển')
 go
 
-alter table Space add hours_of_operation nvarchar(15), picture varchar(300) ,number_phone float, email varchar(50), price text,  type_id int, FOREIGN KEY (type_id) REFERENCES Type_of_Space (type_id);
+alter table Space add hours_of_operation nvarchar(15), picture varchar(300) ,number_phone float, email varchar(50), price text, street nvarchar(100),type_id int, province_id int ,FOREIGN KEY (type_id) REFERENCES Type_of_Space (type_id), FOREIGN KEY (province_id) REFERENCES Province (province_id);
 go
 
 create table Account

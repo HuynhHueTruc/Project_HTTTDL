@@ -1,3 +1,0 @@
-Tài liệu tham khảo: https://comdy.vn/entity-framework/entity-framework-core-toan-tap/
-Cài Tools: https://docs.microsoft.com/en-us/ef/core/cli/dotnet
-Kết nối csdl: Scaffold-DbContext "Server=.\MSSQLSERVER_TRUC;Database=QL_TauXe;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
