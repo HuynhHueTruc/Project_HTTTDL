@@ -96,11 +96,11 @@ namespace Project_HTTTDL.Models
 
             modelBuilder.Entity<Space>(entity =>
             {
-                entity.HasKey(e => e.CartodbId);
-
                 entity.ToTable("Space");
 
-                entity.Property(e => e.CartodbId).HasColumnName("cartodb_id");
+                entity.Property(e => e.Id)
+                    .ValueGeneratedNever()
+                    .HasColumnName("id");
 
                 entity.Property(e => e.Contact)
                     .HasMaxLength(100)
@@ -131,20 +131,21 @@ namespace Project_HTTTDL.Models
                     .HasColumnName("street");
 
                 entity.Property(e => e.TheGeom)
-                    .HasMaxLength(255)
-                    .HasColumnName("the_geom");
+                    .HasColumnName("the_geom")
+                    .HasColumnType("geometry")
+                    .IsRequired();
 
                 entity.Property(e => e.TypeId).HasColumnName("type_id");
 
                 entity.HasOne(d => d.Province)
                     .WithMany(p => p.Spaces)
                     .HasForeignKey(d => d.ProvinceId)
-                    .HasConstraintName("FK__Space__province___70DDC3D8");
+                    .HasConstraintName("FK__Space__province___7E37BEF6");
 
                 entity.HasOne(d => d.Type)
                     .WithMany(p => p.Spaces)
                     .HasForeignKey(d => d.TypeId)
-                    .HasConstraintName("FK__DiaDiem__type_id__31EC6D26");
+                    .HasConstraintName("FK__Space__type_id__00200768");
             });
 
             modelBuilder.Entity<TypeOfSpace>(entity =>

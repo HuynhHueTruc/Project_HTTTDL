@@ -71,8 +71,6 @@ E:\HOC_TAP\NAM4\HTTTDL\DoAn\Project_HTTTDL\Project_HTTTDL\bin\Debug\netcoreapp3.
 E:\HOC_TAP\NAM4\HTTTDL\DoAn\Project_HTTTDL\Project_HTTTDL\bin\Debug\netcoreapp3.1\Project_HTTTDL.Views.pdb
 E:\HOC_TAP\NAM4\HTTTDL\DoAn\Project_HTTTDL\Project_HTTTDL\bin\Debug\netcoreapp3.1\Humanizer.dll
 E:\HOC_TAP\NAM4\HTTTDL\DoAn\Project_HTTTDL\Project_HTTTDL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-E:\HOC_TAP\NAM4\HTTTDL\DoAn\Project_HTTTDL\Project_HTTTDL\obj\Debug\netcoreapp3.1\Project_HTTTDL.csproj.CoreCompileInputs.cache
-E:\HOC_TAP\NAM4\HTTTDL\DoAn\Project_HTTTDL\Project_HTTTDL\obj\Debug\netcoreapp3.1\Project_HTTTDL.MvcApplicationPartsAssemblyInfo.cache
 E:\HOC_TAP\NAM4\HTTTDL\DoAn\Project_HTTTDL\Project_HTTTDL\obj\Debug\netcoreapp3.1\Project_HTTTDL.Views.pdb
 E:\HOC_TAP\NAM4\HTTTDL\DoAn\Project_HTTTDL\Project_HTTTDL\obj\Debug\netcoreapp3.1\Project_HTTTDL.dll
 E:\HOC_TAP\NAM4\HTTTDL\DoAn\Project_HTTTDL\Project_HTTTDL\obj\Debug\netcoreapp3.1\Project_HTTTDL.pdb
